@@ -1,2 +1,8 @@
 # crack-md5
-crack md5 by dragon
+#kali linux - termux
+
+git clone https://github.com/YassenWaly/crack-md5
+
+cd crack-md5
+
+python crack-md5.py
